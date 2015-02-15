@@ -1,0 +1,5 @@
+Name: Swordsman
+Type: Melee
+
+Melee Power: 15
+Attack Speed: 13

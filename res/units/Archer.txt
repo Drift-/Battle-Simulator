@@ -1,0 +1,6 @@
+Name: Archer
+Type: Ranged
+
+Ranged Power: 12
+Melee Power: 4
+Attack Speed: 5

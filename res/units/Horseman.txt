@@ -1,0 +1,5 @@
+Name: Horseman
+Type: Melee
+
+Melee Power: 10
+Attack Speed: 9

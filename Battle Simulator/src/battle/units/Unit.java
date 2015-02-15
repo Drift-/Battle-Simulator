@@ -215,7 +215,7 @@ public class Unit {
 			//System.out.println("Team " + team + " " + name + " attacked " + defender.name + " for " + (int)y_d + " damage.");
 		}
 		
-		//check if unit attacked is dead
+		//check if defender is dead
 		if (defender.health <= 0) {
 			if (defender.team == 0) {
 				//remove dead unit
